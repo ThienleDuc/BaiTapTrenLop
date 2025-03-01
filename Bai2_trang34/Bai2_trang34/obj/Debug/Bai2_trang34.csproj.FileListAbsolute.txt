@@ -1,0 +1,6 @@
+D:\WORKSPACE\LTCs\BaiTapTrenLop\Bai2_trang34\Bai2_trang34\bin\Debug\Bai2_trang34.exe.config
+D:\WORKSPACE\LTCs\BaiTapTrenLop\Bai2_trang34\Bai2_trang34\bin\Debug\Bai2_trang34.exe
+D:\WORKSPACE\LTCs\BaiTapTrenLop\Bai2_trang34\Bai2_trang34\bin\Debug\Bai2_trang34.pdb
+D:\WORKSPACE\LTCs\BaiTapTrenLop\Bai2_trang34\Bai2_trang34\obj\Debug\Bai2_trang34.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\LTCs\BaiTapTrenLop\Bai2_trang34\Bai2_trang34\obj\Debug\Bai2_trang34.exe
+D:\WORKSPACE\LTCs\BaiTapTrenLop\Bai2_trang34\Bai2_trang34\obj\Debug\Bai2_trang34.pdb
