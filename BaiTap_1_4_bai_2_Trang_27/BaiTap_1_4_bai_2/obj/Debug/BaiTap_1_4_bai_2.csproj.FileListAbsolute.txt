@@ -1,0 +1,7 @@
+D:\WORKSPACE\LTCs\BaiTap_1_4_bai_2_Trang_27\BaiTap_1_4_bai_2\bin\Debug\BaiTap_1_4_bai_2.exe.config
+D:\WORKSPACE\LTCs\BaiTap_1_4_bai_2_Trang_27\BaiTap_1_4_bai_2\bin\Debug\BaiTap_1_4_bai_2.exe
+D:\WORKSPACE\LTCs\BaiTap_1_4_bai_2_Trang_27\BaiTap_1_4_bai_2\bin\Debug\BaiTap_1_4_bai_2.pdb
+D:\WORKSPACE\LTCs\BaiTap_1_4_bai_2_Trang_27\BaiTap_1_4_bai_2\obj\Debug\BaiTap_1_4_bai_2.csproj.AssemblyReference.cache
+D:\WORKSPACE\LTCs\BaiTap_1_4_bai_2_Trang_27\BaiTap_1_4_bai_2\obj\Debug\BaiTap_1_4_bai_2.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\LTCs\BaiTap_1_4_bai_2_Trang_27\BaiTap_1_4_bai_2\obj\Debug\BaiTap_1_4_bai_2.exe
+D:\WORKSPACE\LTCs\BaiTap_1_4_bai_2_Trang_27\BaiTap_1_4_bai_2\obj\Debug\BaiTap_1_4_bai_2.pdb

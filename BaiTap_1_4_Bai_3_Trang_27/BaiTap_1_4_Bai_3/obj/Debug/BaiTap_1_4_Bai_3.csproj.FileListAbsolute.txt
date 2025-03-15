@@ -1,0 +1,12 @@
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3\BaiTap_1_4_Bai_3\bin\Debug\BaiTap_1_4_Bai_3.exe.config
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3\BaiTap_1_4_Bai_3\bin\Debug\BaiTap_1_4_Bai_3.exe
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3\BaiTap_1_4_Bai_3\bin\Debug\BaiTap_1_4_Bai_3.pdb
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3\BaiTap_1_4_Bai_3\obj\Debug\BaiTap_1_4_Bai_3.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3\BaiTap_1_4_Bai_3\obj\Debug\BaiTap_1_4_Bai_3.exe
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3\BaiTap_1_4_Bai_3\obj\Debug\BaiTap_1_4_Bai_3.pdb
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3_Trang_27\BaiTap_1_4_Bai_3\bin\Debug\BaiTap_1_4_Bai_3.exe.config
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3_Trang_27\BaiTap_1_4_Bai_3\bin\Debug\BaiTap_1_4_Bai_3.exe
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3_Trang_27\BaiTap_1_4_Bai_3\bin\Debug\BaiTap_1_4_Bai_3.pdb
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3_Trang_27\BaiTap_1_4_Bai_3\obj\Debug\BaiTap_1_4_Bai_3.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3_Trang_27\BaiTap_1_4_Bai_3\obj\Debug\BaiTap_1_4_Bai_3.exe
+D:\WORKSPACE\LTCs\BaiTap_1_4_Bai_3_Trang_27\BaiTap_1_4_Bai_3\obj\Debug\BaiTap_1_4_Bai_3.pdb

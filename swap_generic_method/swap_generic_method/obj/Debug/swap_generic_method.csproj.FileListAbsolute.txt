@@ -1,0 +1,7 @@
+D:\WORKSPACE\LTCs\BaiTapTrenLop\swap_generic_method\swap_generic_method\bin\Debug\swap_generic_method.exe.config
+D:\WORKSPACE\LTCs\BaiTapTrenLop\swap_generic_method\swap_generic_method\bin\Debug\swap_generic_method.exe
+D:\WORKSPACE\LTCs\BaiTapTrenLop\swap_generic_method\swap_generic_method\bin\Debug\swap_generic_method.pdb
+D:\WORKSPACE\LTCs\BaiTapTrenLop\swap_generic_method\swap_generic_method\obj\Debug\swap_generic_method.csproj.AssemblyReference.cache
+D:\WORKSPACE\LTCs\BaiTapTrenLop\swap_generic_method\swap_generic_method\obj\Debug\swap_generic_method.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\LTCs\BaiTapTrenLop\swap_generic_method\swap_generic_method\obj\Debug\swap_generic_method.exe
+D:\WORKSPACE\LTCs\BaiTapTrenLop\swap_generic_method\swap_generic_method\obj\Debug\swap_generic_method.pdb
